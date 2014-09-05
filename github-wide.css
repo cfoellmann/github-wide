@@ -59,11 +59,16 @@ body > .container, /* Footer */
   margin-right: 240px !important;
 }
 
+/* Comments */
+
+.comment-holder {
+  max-width: none !important;
+}
+
 /* Fix #18 - props: @auscompgeek */
 .file-header::after {
   clear: left !important;
 }
-
 /* New issues and Dashboard */
 
 #dashboard,
