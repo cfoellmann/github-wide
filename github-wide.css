@@ -1,3 +1,7 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("github.com") {
+
 body > .container, /* Footer */
 .site > .container, /* Misc views */
 .header > .container, /* Site header */
@@ -125,4 +129,6 @@ button.discussion-sidebar-toggle {
 /* Profile avatar tooltip */
 .vcard-avatar {
   width: 230px !important;
+}
+
 }
