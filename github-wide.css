@@ -131,4 +131,9 @@ button.discussion-sidebar-toggle {
   width: 230px !important;
 }
 
+/* Commits: extended message under "..." */
+.commit-desc pre {
+  max-width: inherit;
+}
+
 }
