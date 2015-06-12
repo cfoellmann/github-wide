@@ -131,4 +131,16 @@ button.discussion-sidebar-toggle {
   width: 230px !important;
 }
 
+/************************************/
+/* Tooltips that break width @ 100% */
+/************************************/
+
+.tooltipped-n {
+    margin-right: 10px;
+}
+
+.tooltipped-s {
+    margin-right: 15px;
+}
+
 }
