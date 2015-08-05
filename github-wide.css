@@ -59,9 +59,7 @@ body > .container, /* Footer */
 }
 
 .discussion-timeline {
-  float: none !important;
-  width: auto !important;
-  margin-right: 240px !important;
+  width: 85% !important;
 }
 
 /* Comments */
