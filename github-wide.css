@@ -2,6 +2,10 @@
 
 @-moz-document domain("github.com") {
 
+.container-lg {
+  max-width: 80% !important;
+}
+
 .container, .container-lg {
   width: 100% !important;
   padding-left: 30px !important;
