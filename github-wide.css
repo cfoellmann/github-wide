@@ -56,6 +56,10 @@
   width: calc(100% - 240px) !important;
 }
 
+.inline-comments .comment-holder {
+  max-width: none !important;
+}
+
 /* Fix #18 - props: @auscompgeek */
 .file-header::after {
   clear: left !important;
