@@ -122,6 +122,11 @@ button.discussion-sidebar-toggle {
   width: 230px !important;
 }
 
+.h-card {
+  width: 230px;
+  margin-right: 16px;
+}
+
 /* Commits: extended message under "..." */
 .commit-desc pre {
   max-width: none;
