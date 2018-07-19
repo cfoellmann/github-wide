@@ -1,6 +1,6 @@
 ![](https://cloud.githubusercontent.com/assets/98681/4158694/54b81c44-3491-11e4-866a-2555e8afc23d.png)
 
-# Wide GitHub
+# Wide GitHub - Fork by @cfoellmann
 
 Userstyle for making all of GitHub completely fluid.
 
@@ -10,7 +10,10 @@ Well, we just shipped split diffs—hell yeah!—and now only part of the site i
 
 ### Disclaimer
 
-I work at GitHub. This repo comes with absolutely no promise of an official full-width interface GitHub. No such project is under way, and as you'll find with this userstyle, it's not as simple as just adding more CSS. That said, enjoy!
+[@mdo](https://twitter.com/mdo) created this project.
+
+I maintain this fork to provide a current version via [https://userstyles.org](https://userstyles.org).
+Due to inactivity in the upstream repo fixes might be merged to the fork individually.
 
 ### How to use
 
@@ -33,7 +36,9 @@ If you use the Stylish addon on Chrome or Firefox you can find one-click install
 
 ### Bug reports
 
-Open an issue or submit a pull request, please.
+Do __not__ open an issue or submit a pull request to this repo unless it is specific to the fork!
+
+Go to the upstream repo at https://github.com/mdo/github-wide to contribute to the project.
 
 ### <3
 
